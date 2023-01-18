@@ -20,6 +20,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 🔗Contact Me
-FaceBook Gmail Linkedin Badge CodePen.io  Twitter Whatsapp
-
+https://mohamed-ali-hussain.netlify.app/
 
