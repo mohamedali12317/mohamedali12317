@@ -2,7 +2,7 @@
 - 💞️ I’m seeking a job that can help me share my experience and help me to grow.
 - 👀 I’m interested in building response website.
 - my plane full
-- 🌱 I’m currently learning Romania and React Js
+- 🌱 I’m currently learning Romania and TypeScript
 - Here's a list of technologies/tools/concepts I am currently working with.
 - React.js ✅
 Js ✅
